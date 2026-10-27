@@ -11,6 +11,7 @@ export default function App() {
         <footer className="site-footer">
           <span>© {new Date().getFullYear()} Mira</span>
           <span>A little warmth goes a long way.</span>
+          <span>Created with ❤️ by Parth </span>
         </footer>
       </div>
     </BrowserRouter>
